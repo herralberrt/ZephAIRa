@@ -35,11 +35,3 @@ The goal is to create a digital space for reflection, awareness, and personal gr
 | AI Integration | Python image models (e.g., Stable Diffusion) |
 | Charts         | Chart.js / D3.js     |
 
-## 📁 Folder Structure
-zephaira/
-├── zephaira-backend/     # Flask backend (API + database)
-│   ├── app/
-│   └── run.py
-├── zephaira-frontend/    # React frontend (UI)
-│   └── Vite app
-└── README.md
