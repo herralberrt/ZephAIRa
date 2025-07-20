@@ -37,9 +37,9 @@ The goal is to create a digital space for reflection, awareness, and personal gr
 
 ## 📁 Folder Structure
 zephaira/
-├── zephaira-backend/ # Flask backend (API + database)
-│ ├── app/
-│ └── run.py
-├── zephaira-frontend/ # React frontend (UI)
-│ └── Vite app
+├── zephaira-backend/     # Flask backend (API + database)
+│   ├── app/
+│   └── run.py
+├── zephaira-frontend/    # React frontend (UI)
+│   └── Vite app
 └── README.md
