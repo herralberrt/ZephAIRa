@@ -1,6 +1,26 @@
 [
   {
-    "text": "Ma simt linistit",
-    "time": "2025-07-21T20:25:32.789Z"
+    "text": "Happy",
+    "timestamp": "2025-07-21T23:42:30.476504",
+    "emotion": "Surprise",
+    "emoji": "\ud83d\ude32"
+  },
+  {
+    "text": "Sad",
+    "timestamp": "2025-07-21T23:42:35.764170",
+    "emotion": "Anger",
+    "emoji": "\ud83d\ude20"
+  },
+  {
+    "text": "Curious",
+    "timestamp": "2025-07-21T23:42:42.631051",
+    "emotion": "Fear",
+    "emoji": "\ud83d\ude31"
+  },
+  {
+    "text": "Joy",
+    "timestamp": "2025-07-21T23:44:19.795638",
+    "emotion": "Surprise",
+    "emoji": "\ud83d\ude32"
   }
 ]
